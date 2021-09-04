@@ -5,6 +5,7 @@ Conjugal Chess Game Events on ChiaNet Protocol
 - https://clisp.surrealdev.com/
 - https://github.com/Chia-Network/clvm
 - https://github.com/Chia-Network/clvm_tools
+- https://github.com/Chia-Network/chia-blockchain
 - https://github.com/FabioRM/ChiaNetspaceAnalyzer
 - https://github.com/Chia-Network/chia-blockchain
 - https://github.com/RightSexyOrc/chiadevgettingstarted
